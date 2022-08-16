@@ -5,7 +5,6 @@
 
 ### Built using ReactJs and Tailwind css
 
-## ![Live Demo](https://advance-react-tailwind-ui.netlify.app/)
+## [Live Demo](https://advance-react-tailwind-ui.netlify.app/)
 
-✅ A special YOUTUBE discount code is automatically applied!
-
+✅ Feel Free to Use Components in your projects
